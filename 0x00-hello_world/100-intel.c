@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -s $CFILE -o 100-intel
+gcc -S $CFILE -o 100-intel
