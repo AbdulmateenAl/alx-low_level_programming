@@ -23,4 +23,7 @@ void print_square(int size);
 
 void print_triangles(int size);
 
+void print_number(int n);
+
+
 #endif
